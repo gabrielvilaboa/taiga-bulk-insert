@@ -1,0 +1,17 @@
+{
+  "url": "https://api.taiga.io/api/v1",
+  "user": {
+    "username": "___TAIGA_USERNAME___",
+    "password": "___TAIGA_PASSWORD___"
+  },
+  "project": {
+    "slug": "vilaboa-test-1"
+  },
+  "endpoints": {
+    "auth": "/auth",
+    "project_slug": "/projects/by_slug?slug=",
+    "userstories": "/userstories?project=",
+    "userstory": "/userstories/"
+  },
+  "userstories_file": "userstories.json"
+}

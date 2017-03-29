@@ -1,0 +1,19 @@
+[{
+  "subject": "Asunto 1",
+  "description": "Descripción 1",
+  "points": {
+    "back": 0,
+    "front": 1,
+    "ux": 2,
+    "design": 3
+  }
+}, {
+  "subject": "Asunto 2",
+  "description": "Descripción 2",
+  "points": {
+    "back": 2,
+    "front": 5,
+    "ux": 3,
+    "design": 8
+  }
+}]
